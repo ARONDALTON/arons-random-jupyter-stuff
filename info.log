@@ -3,3 +3,11 @@
 2017-11-15 18:11:10,557 - __main__ - INFO - sfc
 2017-11-15 18:11:14,245 - __main__ - INFO - sby
 2017-11-15 18:11:17,822 - __main__ - INFO - scz
+2017-11-15 19:48:11,512 - RefactoringTool - INFO - Skipping optional fixer: buffer
+2017-11-15 19:48:11,594 - RefactoringTool - INFO - Skipping optional fixer: idioms
+2017-11-15 19:48:11,610 - RefactoringTool - INFO - Skipping optional fixer: ws_comma
+2017-11-15 19:48:11,653 - RefactoringTool - INFO - Skipping optional fixer: set_literal
+2017-11-15 19:48:12,018 - RefactoringTool - INFO - Skipping optional fixer: buffer
+2017-11-15 19:48:12,139 - RefactoringTool - INFO - Skipping optional fixer: idioms
+2017-11-15 19:48:12,160 - RefactoringTool - INFO - Skipping optional fixer: ws_comma
+2017-11-15 19:48:12,216 - RefactoringTool - INFO - Skipping optional fixer: set_literal
